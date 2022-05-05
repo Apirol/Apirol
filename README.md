@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anatoly</h1>
 <h3 align="center">A beginner data scientist, ML developer. Junior :)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
+  redut.tolya@gmail.com or https://t.me/Apirol
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
