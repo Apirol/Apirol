@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anatoly</h1>
-<h3 align="center">A beginner data scientist, ML developer. Studetn of NSTU(NETI), student of School21. Junior :)</h3>
+<h3 align="center">A beginner data scientist, ML developer. Student of NSTU(NETI), student of School21. Junior :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apirol&label=Profile%20views&color=0e75b6&style=flat" alt="apirol" /> </p>
 
